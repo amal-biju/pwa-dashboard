@@ -1,0 +1,9 @@
+.App {
+   display: flex;
+   font-family: "Baloo Bhai 2", cursive;
+   margin-top: 15px;
+}
+* {
+   margin: 0;
+   padding: 0;
+}

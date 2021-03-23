@@ -1,0 +1,47 @@
+.myCourse-container {
+   margin-left: 3rem;
+   margin-top: 1rem;
+   display: flex;
+   align-items: center;
+   width: 120%;
+   justify-content: space-between;
+}
+.myCourse {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+   background: #f2f2f2;
+   width: 75%;
+   border-radius: 14px;
+}
+.myCourse-logo {
+   background-color: #fff;
+   padding: 5px;
+   border-radius: 5px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.myCourse-logo img {
+   height: 30px;
+   width: 30px;
+}
+.myCourse-details h3,
+.myCourse-details h4 {
+   margin: 0;
+   padding: 0;
+}
+.myCourse-button button {
+   background-color: #000;
+   color: white;
+   border: none;
+   padding: 10px;
+   border-radius: 5px;
+}
+.myCourse-arrows {
+   flex: 1;
+   display: flex;
+   margin-left: 20px;
+   justify-content: space-between;
+}
