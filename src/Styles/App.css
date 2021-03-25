@@ -7,3 +7,10 @@
    margin: 0;
    padding: 0;
 }
+
+.right-container {
+   position: relative;
+   top: 20px;
+   left: 200px;
+   width: 40%;
+}
